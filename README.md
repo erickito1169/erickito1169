@@ -27,6 +27,9 @@ erickesluutt06@gmail.com
 🐙 GitHub  
 https://github.com/erickito1169
 
+📞 Telefono
+241-163-50-78
+
 ---
 
 # 🛠️ Tecnologías y herramientas
