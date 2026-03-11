@@ -81,14 +81,6 @@ Proyecto que permite visualizar modelos 3D mediante AR usando dispositivos móvi
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
-
----
-
 ## 🧠 Actualmente aprendiendo
 
 - Desarrollo de experiencias VR
