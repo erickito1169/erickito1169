@@ -1,106 +1,130 @@
 <p align="center">
   <img src="FotoMia.png" width="200">
 </p>
-# 👋 Hola, soy Erick
 
-🎓 Estudiante de desarrollo de software apasionado por las **tecnologías inmersivas**, especialmente **Realidad Virtual (VR)** y **Realidad Aumentada (AR)**.
+<h1 align="center">Hola 👋, soy Erick Estrada</h1>
 
-💡 Me interesa crear **experiencias interactivas, educativas e innovadoras** utilizando herramientas como Unity.
+# 🚀 Sobre mí
 
----
+Soy estudiante de **Desarrollo de Software** apasionado por la creación de **experiencias digitales interactivas**, especialmente en **Realidad Virtual (VR)** y **Realidad Aumentada (AR)**.
 
-## 🚀 Sobre mí
+Tengo experiencia desarrollando aplicaciones utilizando **Python, C# y Unity**, así como trabajando con herramientas de desarrollo y creación digital como **Git, Visual Studio, Blender y herramientas de Adobe**.
 
-- 🎮 Desarrollador interesado en experiencias VR
-- 🌱 Actualmente aprendiendo más sobre desarrollo con Unity
-- 🧠 Me gusta resolver problemas y aprender nuevas tecnologías
-- 🤝 Buscando oportunidades para **estadías profesionales**
+He participado en proyectos académicos y creativos como:
 
----
-
-## 🛠️ Tecnologías y herramientas
-
-### Lenguajes
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Herramientas
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- Desarrollo de un **Sistema de Inventario para Punto de Venta**
+- Creación de **aplicaciones interactivas**
+- Desarrollo de **experiencias de Realidad Aumentada**
+- Producción de **proyectos audiovisuales con enfoque social**
+- Diseño de **material gráfico y multimedia**
 
 ---
 
-## 📂 Proyectos
+# 🛠️ Tecnologías y herramientas
 
-### 🕯️ Sistema de Inventario para Punto de Venta
+## 👨‍💻 Lenguajes
 
-Sistema desarrollado en Python para la gestión de inventario de una tienda de velas.  
-Incluye también una aplicación de catálogo digital para visualizar productos.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
 
-🔧 Tecnologías:
+## ⚙️ Desarrollo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
+## 🎨 Diseño y multimedia
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/>
+
+# 📂 Proyectos
+
+## 🕯️ Sistema de Inventario para Punto de Venta
+
+Sistema desarrollado en **Python** para la gestión de inventario de una tienda de velas.
+
+**Características**
+
+- Registro de productos  
+- Control de inventario  
+- Registro de ventas  
+- Catálogo digital de productos  
+
+**Tecnologías**
+
 - Python
 - Visual Studio
 
-📁 Proyecto completo:  
-🔗 [Ver proyecto en Google Drive](LINK_DRIVE_AQUI)
+🔗 Proyecto  
+[Ver proyecto](https://drive.google.com/drive/folders/1PPTuQRVx7wR7JslB0y-ZqlPIZb7BcXQ9?usp=sharing)
 
 ---
 
-### 🎬 Cortometraje – Violencia Contra la Mujer
+## 🎬 Cortometraje – Violencia Contra la Mujer
 
-Cortometraje que aborda la discriminación hacia una mujer indígena al llegar a la ciudad.
+Proyecto audiovisual que aborda la **discriminación hacia una mujer indígena al llegar a la ciudad**, buscando generar conciencia sobre la violencia y desigualdad.
 
-📁 Material del proyecto:  
-🔗 [Ver proyecto en Google Drive](LINK_DRIVE_AQUI)
+**Herramientas**
 
----
+- Adobe Premiere Pro  
+- Adobe Audition  
 
-### 🎥 Cortometraje Animado – Acoso Escolar
-
-Proyecto audiovisual enfocado en la concientización sobre el bullying o acoso escolar.
-
-📁 Material del proyecto:  
-🔗 [Ver proyecto en Google Drive](LINK_DRIVE_AQUI)
+🔗 Proyecto  
+[Ver material](https://drive.google.com/drive/folders/1oF3IY7xUqgzGdDQnUoW2LwZ5z4Dxvbvv?usp=sharing)
 
 ---
 
-### 🎨 Carteles Promocionales
+## 🎥 Cortometraje Animado – Acoso Escolar
+
+Cortometraje animado enfocado en la **concientización sobre el bullying o acoso escolar**.
+
+**Herramientas**
+
+- Krita  
+- Adobe Premiere Pro  
+- Adobe Audition  
+
+🔗 Proyecto  
+[Ver material](https://drive.google.com/drive/folders/1hiddQFgnQmx5-l4keN0NNxzf56r4OAx-?usp=sharing)
+
+---
+
+## 🎨 Carteles Promocionales
 
 Diseño de material gráfico para la promoción de los cortometrajes.
 
-📁 Diseños y archivos:  
-🔗 [Ver proyecto en Google Drive](LINK_DRIVE_AQUI)
+**Herramientas**
 
-### 📱 Aplicación de Realidad Aumentada
-Proyecto que permite visualizar modelos 3D mediante AR usando dispositivos móviles.
+- Adobe Photoshop
 
-**Tecnologías usadas:**
-- Unity
-- AR Foundation
+🔗 Proyecto  
+[Ver diseños](https://drive.google.com/drive/folders/1UxyOXIzfdyPhoGH2mWufwnfHXuFpmHF-?usp=drive_link)
 
 ---
 
-## 🧠 Actualmente aprendiendo
+# 📚 Actualmente aprendiendo
 
-- Desarrollo de experiencias VR
-- Optimización de proyectos en Unity
-- Modelado 3D básico en Blender
+- Desarrollo de **experiencias VR**
+- **Optimización de proyectos en Unity**
+- **Modelado 3D en Blender**
+- Desarrollo de **aplicaciones interactivas**
 
 ---
 
-## 🎯 Objetivos
+# 🎯 Objetivos
 
 ✔ Participar en proyectos de desarrollo de software  
-✔ Mejorar habilidades en VR y AR  
-✔ Colaborar en proyectos open source  
+✔ Mejorar habilidades en **VR y AR**  
+✔ Colaborar en **proyectos open source**  
+✔ Crear experiencias educativas interactivas  
 
 ---
 
-## 📫 Contacto
+# 📫 Contacto
 
-📧 Email: erickesluutt06@gmailcom  
-🐙 GitHub: https://github.com/erickito1169
+📧 Email  
+erickesluutt06@gmail.com  
+
+🐙 GitHub  
+https://github.com/erickito1169
