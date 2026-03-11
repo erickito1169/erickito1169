@@ -143,9 +143,12 @@ Diseño de carteles promocionales realizados para la campaña del
 
 ---
 
-<p align="right">
+<br>
 
-<a href="CV_Erick_Estrada.pdf">
+<p align="right">
+<b>Currículum</b><br>
+
+<a href="CVErickEstradaLuna.pdf">
   <img src="https://img.shields.io/badge/Ver%20CV-PDF-7D9D79?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 
