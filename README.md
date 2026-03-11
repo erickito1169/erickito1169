@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Erick Estrada</h1>
 
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="bannerfin.png" width="100%">
 </p>
 
 
