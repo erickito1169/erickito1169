@@ -147,7 +147,7 @@ Diseño de carteles promocionales realizados para la campaña del
 
 <p align="right">
 
-<a href="CVErickEstradaLuna" download>
+<a href="CVErickEstradaLuna.pdf" download>
   <img src="https://img.shields.io/badge/Descargar%20CV-PDF-7D9D79?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 
