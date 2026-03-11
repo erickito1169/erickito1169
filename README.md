@@ -130,31 +130,31 @@ Diseño de carteles promocionales realizados para la campaña del
 <p align="center">
 
 <a href="Certificados/1_1erCongresoDeCiberseguridad.pdf">
-<img src="Certificados/1.png" width="300">
+<img src="Certificados/1.png" width="280" style="margin:15px;">
 </a>
 
 <a href="Certificados/2_2doCongresodeCiberSeguridad.pdf">
-<img src="Certificados/2.png" width="300">
+<img src="Certificados/2.png" width="280" style="margin:15px;">
 </a>
 
 <a href="Certificados/3_certificado_Sanamente.pdf">
-<img src="Certificados/3.png" width="300">
+<img src="Certificados/3.png" width="280" style="margin:15px;">
 </a>
 
 <a href="Certificados/4_panelistaLGBT.pdf">
-<img src="Certificados/4.png" width="300">
+<img src="Certificados/4.png" width="280" style="margin:15px;">
 </a>
 
 <a href="Certificados/5_PrimerJornadaCulturadePaz.pdf">
-<img src="Certificados/5.png" width="300">
+<img src="Certificados/5.png" width="280" style="margin:15px;">
 </a>
 
 <a href="Certificados/6_TallerDiseñoPublicitario.pdf">
-<img src="Certificados/6.png" width="300">
+<img src="Certificados/6.png" width="280" style="margin:15px;">
 </a>
 
 <a href="Certificados/7_CertificadoPaginaWeb.pdf">
-<img src="Certificados/7.png" width="300">
+<img src="Certificados/7.png" width="280" style="margin:15px;">
 </a>
 
 </p>
