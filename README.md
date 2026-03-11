@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Erick Estrada</h1>
 
 <p align="center">
-  <img src="bannerfin.png" width="100%">
+  <img src="BannerFin.png" width="100%">
 </p>
 
 
@@ -49,11 +49,11 @@ https://github.com/erickito1169
 
 ## 🤝 Habilidades personales
 
-- Trabajo en equipo
-- Organización y responsabilidad
-- Resolución de problemas
-- Aprendizaje continuo
-- Creatividad en proyectos tecnológicos
+- Trabajo en equipo.
+- Organización y responsabilidad.
+- Resolución de problemas.
+- Aprendizaje continuo.
+- Creatividad en proyectos tecnológicos.
 
 ---
 
