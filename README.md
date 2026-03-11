@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="FotoMia.png" width="200">
+</p>
 # 👋 Hola, soy Erick
 
 🎓 Estudiante de desarrollo de software apasionado por las **tecnologías inmersivas**, especialmente **Realidad Virtual (VR)** y **Realidad Aumentada (AR)**.
