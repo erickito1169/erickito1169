@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="Banner4.0.png" width="100%">
+  <img src="Bannner4.0.png" width="100%">
 </p>
 
-<img width="1476" height="572" alt="image" src="https://github.com/user-attachments/assets/ea3d22f3-97c7-4c17-9006-d2327b404224" />
 <p align="center">
-  <img src="FotoMia.png" width="200">
+  <img src="FotoMia.png" width="300">
 </p>
 
-<h1 align="center">Hola 👋, soy Erick Estrada</h1>
+<h1 align="center">Holaaa!, soy Erick Estrada</h1>
 
-# 🚀 Sobre mí
+# Sobre mí
 
 Soy estudiante de **Entornos Virtuales y Negocios Digitales** apasionado por la tecnología y la creación de **experiencias digitales interactivas**, especialmente en **Realidad Virtual (VR)** y **Realidad Aumentada (AR)**. Me interesa combinar **programación, diseño y creatividad** para desarrollar proyectos innovadores y educativos.
 
