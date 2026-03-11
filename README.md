@@ -133,11 +133,11 @@ Diseño de carteles promocionales realizados para la campaña del
 <img src="Certificados/1.png" width="300">
 </a>
 
-<a href="Certificados/2_2doCongresodeCiberseguridad.pdf">
+<a href="Certificados/2_2doCongresodeCiberSeguridad.pdf">
 <img src="Certificados/2.png" width="300">
 </a>
 
-<a href="Certificados/3_Certificado_Sanamente.pdf">
+<a href="Certificados/3_certificado_Sanamente.pdf">
 <img src="Certificados/3.png" width="300">
 </a>
 
@@ -149,7 +149,7 @@ Diseño de carteles promocionales realizados para la campaña del
 <img src="Certificados/5.png" width="300">
 </a>
 
-<a href="Certificados/6_TalllerDiseñoPublicitario.pdf">
+<a href="Certificados/6_TallerDiseñoPublicitario.pdf">
 <img src="Certificados/6.png" width="300">
 </a>
 
