@@ -1,3 +1,5 @@
+<h1 align="center">Hola, soy Erick Estrada</h1>
+
 <p align="center">
   <img src="FotoMia.png" width="300">
 </p>
@@ -5,8 +7,6 @@
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
-
-<h1 align="center">Holaaa!, soy Erick Estrada</h1>
 
 # Sobre mí
 
