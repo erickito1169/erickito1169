@@ -40,61 +40,65 @@ He participado en proyectos académicos y creativos como:
 
 # 📂 Proyectos
 
-## 🕯️ Sistema de Inventario para Punto de Venta
+## 🕯️ Sistema de Inventario y Catálogo Digital – **ALUMA**
 
-Sistema desarrollado en **Python** para la gestión de inventario de una tienda de velas.
+Sistema desarrollado en **Python** para la gestión de inventario del negocio **ALUMA**, dedicado a la venta de velas y productos artesanales.
+
+El sistema permite llevar un control de los productos disponibles, registrar ventas y administrar el inventario de manera eficiente.  
+Como complemento del sistema también se desarrolló un **catálogo digital** para la visualización de los productos del negocio.
 
 **Características**
 
 - Registro de productos  
 - Control de inventario  
 - Registro de ventas  
-- Catálogo digital de productos  
+- Visualización de productos mediante catálogo digital  
 
-**Tecnologías**
+**Tecnologías utilizadas**
 
-- Python
-- Visual Studio
+- Python  
+- Visual Studio  
 
 🔗 Proyecto  
-[Ver proyecto](https://drive.google.com/drive/folders/1PPTuQRVx7wR7JslB0y-ZqlPIZb7BcXQ9?usp=sharing)
+[Ver proyecto](https://drive.google.com/drive/folders/1PPTuQRVx7wR7JslB0y-ZqlPIZb7BcXQ9?usp=drive_link)
 
 ---
 
-## 🎬 Cortometraje – Violencia Contra la Mujer
+## 🎬 Cortometraje – **Raíces**
 
-Proyecto audiovisual que aborda la **discriminación hacia una mujer indígena al llegar a la ciudad**, buscando generar conciencia sobre la violencia y desigualdad.
+Cortometraje titulado **"Raíces"**, el cual aborda la **discriminación hacia una mujer indígena al llegar a la ciudad**, con el objetivo de generar reflexión sobre la desigualdad y las problemáticas sociales que enfrentan muchas mujeres.
 
-**Herramientas**
+**Herramientas utilizadas**
 
-- Adobe Premiere Pro  
-- Adobe Audition  
+- Adobe Premiere Pro (edición de video)  
+- Adobe Audition (edición y limpieza de audio)
 
 🔗 Proyecto  
-[Ver material](https://drive.google.com/drive/folders/1oF3IY7xUqgzGdDQnUoW2LwZ5z4Dxvbvv?usp=sharing)
+[Ver material](https://drive.google.com/drive/folders/1oF3IY7xUqgzGdDQnUoW2LwZ5z4Dxvbvv?usp=drive_link)
 
 ---
 
-## 🎥 Cortometraje Animado – Acoso Escolar
+## 🎥 Cortometraje Animado – **El Valor de Decirlo**
 
-Cortometraje animado enfocado en la **concientización sobre el bullying o acoso escolar**.
+Cortometraje animado titulado **"El Valor de Decirlo"**, enfocado en la **concientización sobre el bullying o acoso escolar**, mostrando la importancia de denunciar estas situaciones y fomentar el respeto entre estudiantes.
 
-**Herramientas**
+**Herramientas utilizadas**
 
-- Krita  
-- Adobe Premiere Pro  
-- Adobe Audition  
+- Krita (ilustración y animación)  
+- Adobe Premiere Pro (edición de video)  
+- Adobe Audition (edición de audio)
 
 🔗 Proyecto  
-[Ver material](https://drive.google.com/drive/folders/1hiddQFgnQmx5-l4keN0NNxzf56r4OAx-?usp=sharing)
+[Ver material](https://drive.google.com/drive/folders/1hiddQFgnQmx5-l4keN0NNxzf56r4OAx-?usp=drive_link)
 
 ---
 
-## 🎨 Carteles Promocionales
+## 🎨 Carteles Promocionales – **25 de Noviembre**
 
-Diseño de material gráfico para la promoción de los cortometrajes.
+Diseño de carteles promocionales realizados para la campaña del  
+**25 de Noviembre – Día Internacional de la Eliminación de la Violencia Contra la Mujer**, con el objetivo de generar conciencia social sobre esta problemática.
 
-**Herramientas**
+**Herramientas utilizadas**
 
 - Adobe Photoshop
 
