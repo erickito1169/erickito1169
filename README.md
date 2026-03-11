@@ -1,13 +1,9 @@
 <h1 align="center">Hola, soy Erick Estrada</h1>
 
 <p align="center">
-  <img src="BannerFin.png" width="100%">
+  <img src="Banner.png" width="100%">
 </p>
 
-
-<p align="center">
-  <img src="FotoMia.png" width="300">
-</p>
 
 # Sobre mí
 
