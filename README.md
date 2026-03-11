@@ -182,7 +182,7 @@ Diseño de carteles promocionales realizados para la campaña del
 
 <p align="right">
 
-<a href="CV-ErickEstradaLuna13(1).pdf">
+<a href="https://github.com/erickito1169/erickito1169/blob/main/CV-ErickEstradaLuna13%20(1).pdf">
   <img src="https://img.shields.io/badge/Ver%20CV-PDF-7D9D79?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 
