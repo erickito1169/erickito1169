@@ -6,17 +6,21 @@
 
 # 🚀 Sobre mí
 
-Soy estudiante de **Desarrollo de Software** apasionado por la creación de **experiencias digitales interactivas**, especialmente en **Realidad Virtual (VR)** y **Realidad Aumentada (AR)**.
+Soy estudiante de **Entornos Virtuales y Negocios Digitales** apasionado por la tecnología y la creación de **experiencias digitales interactivas**, especialmente en **Realidad Virtual (VR)** y **Realidad Aumentada (AR)**. Me interesa combinar **programación, diseño y creatividad** para desarrollar proyectos innovadores y educativos.
 
-Tengo experiencia desarrollando aplicaciones utilizando **Python, C# y Unity**, así como trabajando con herramientas de desarrollo y creación digital como **Git, Visual Studio, Blender y herramientas de Adobe**.
+Durante mi formación he participado en el desarrollo de **sistemas de software, aplicaciones interactivas y proyectos audiovisuales**, lo que me ha permitido fortalecer tanto mis habilidades técnicas como creativas.
 
-He participado en proyectos académicos y creativos como:
+A nivel personal, me considero una persona **responsable, comprometida y con interés constante por aprender**, siempre buscando mejorar mis habilidades y seguir creciendo en el área del desarrollo de software.
 
-- Desarrollo de un **Sistema de Inventario para Punto de Venta**
-- Creación de **aplicaciones interactivas**
-- Desarrollo de **experiencias de Realidad Aumentada**
-- Producción de **proyectos audiovisuales con enfoque social**
-- Diseño de **material gráfico y multimedia**
+---
+
+# 📫 Contacto
+
+📧 Email  
+erickesluutt06@gmail.com  
+
+🐙 GitHub  
+https://github.com/erickito1169
 
 ---
 
@@ -37,6 +41,16 @@ He participado en proyectos académicos y creativos como:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/>
+
+## 🤝 Habilidades personales
+
+- Trabajo en equipo
+- Organización y responsabilidad
+- Resolución de problemas
+- Aprendizaje continuo
+- Creatividad en proyectos tecnológicos
+
+---
 
 # 📂 Proyectos
 
@@ -125,10 +139,4 @@ Diseño de carteles promocionales realizados para la campaña del
 
 ---
 
-# 📫 Contacto
 
-📧 Email  
-erickesluutt06@gmail.com  
-
-🐙 GitHub  
-https://github.com/erickito1169
