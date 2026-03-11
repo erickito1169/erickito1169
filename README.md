@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="FotoMia.png" width="300">
 </p>
 
 <p align="center">
-  <img src="FotoMia.png" width="300">
+  <img src="banner.png" width="100%">
 </p>
 
 <h1 align="center">Holaaa!, soy Erick Estrada</h1>
