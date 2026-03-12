@@ -67,8 +67,8 @@ https://github.com/erickito1169
 
 | | | |
 |---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="60"/> |
-| Microsoft Word | Microsoft Excel | Microsoft PowerPoint |
+| <img src="Microsoft_Office_Word.png" width="60"/> | <img src="Microsoft_Office_Excel.png" width="60"/> | <img src="Microsoft_Office_PowerPoint.png" width="60"/> |
+| Word | Excel | PowerPoint |
 
 ## 🤝 Habilidades personales
 
