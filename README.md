@@ -31,19 +31,37 @@ https://github.com/erickito1169
 
 ## 👨‍💻 Lenguajes
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+| | |
+|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/> |
+| Python | C# |
+
+---
 
 ## ⚙️ Desarrollo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+| | | | | |
+|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60"/> |
+| Unity | Git | GitHub | Bootstrap | Django |
+
+---
+
+## 🗄️ Bases de datos y servidores
+
+| | | |
+|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="60"/> |
+| MySQL | PostgreSQL | XAMPP |
+
+---
 
 ## 🎨 Diseño y multimedia
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/>
+| | | | |
+|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="60"/> |
+| Blender | Photoshop | Premiere Pro | After Effects |
 
 ## 🤝 Habilidades personales
 
@@ -124,40 +142,22 @@ Diseño de carteles promocionales realizados para la campaña del
 
 ---
 
-<h1 align="center">🏅 Reconocimientos y Certificaciones</h1>
+# 🏅 Reconocimientos y Certificaciones
 
-<p align="center">
+| | | |
+|---|---|---|
+| <a href="Certificados/1_1erCongresoDeCiberseguridad.pdf"><img src="Certificados/1.png" width="250"></a> | <a href="Certificados/2_2doCongresodeCiberSeguridad.pdf"><img src="Certificados/2.png" width="250"></a> | <a href="Certificados/3_certificado_Sanamente.pdf"><img src="Certificados/3.png" width="250"></a> |
+| 1er Congreso de Tecnología y Ciberseguridad | 2do Congreso de Tecnología y Ciberseguridad | Curso: SanaMente LibreMente |
 
-<a href="Certificados/1_1erCongresoDeCiberseguridad.pdf">
-<img src="Certificados/1.png" width="280" style="margin:15px;">
-</a>
+| | | |
+|---|---|---|
+| <a href="Certificados/4_panelistaLGBT.pdf"><img src="Certificados/4.png" width="250"></a> | <a href="Certificados/5_PrimerJornadaCulturadePaz.pdf"><img src="Certificados/5.png" width="250"></a> | <a href="Certificados/6_TallerDiseñoPublicitario.pdf"><img src="Certificados/6.png" width="250"></a> |
+| Panelista en la mesa de dialogo "Realidad LGBTIQ+" | Cortometrajes por Primera Jornada Cultura de Paz | Taller de Diseño Publicitario |
 
-<a href="Certificados/2_2doCongresodeCiberSeguridad.pdf">
-<img src="Certificados/2.png" width="280" style="margin:15px;">
-</a>
-
-<a href="Certificados/3_certificado_Sanamente.pdf">
-<img src="Certificados/3.png" width="280" style="margin:15px;">
-</a>
-
-<a href="Certificados/4_panelistaLGBT.pdf">
-<img src="Certificados/4.png" width="280" style="margin:15px;">
-</a>
-
-<a href="Certificados/5_PrimerJornadaCulturadePaz.pdf">
-<img src="Certificados/5.png" width="280" style="margin:15px;">
-</a>
-
-<a href="Certificados/6_TallerDiseñoPublicitario.pdf">
-<img src="Certificados/6.png" width="280" style="margin:15px;">
-</a>
-
-<a href="Certificados/7_CertificadoPaginaWeb.pdf">
-<img src="Certificados/7.png" width="280" style="margin:15px;">
-</a>
-
-</p>
-
+| | |
+|---|---|
+| <a href="Certificados/7_CertificadoPaginaWeb.pdf"><img src="Certificados/7.png" width="250"></a> |  |
+| Curso: Desarrollo de Página Web |  |
 # 📚 Actualmente aprendiendo
 
 - Desarrollo de **experiencias VR**
