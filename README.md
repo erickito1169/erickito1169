@@ -63,6 +63,13 @@ https://github.com/erickito1169
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="60"/> |
 | Blender | Photoshop | Premiere Pro | After Effects |
 
+## 📊 Paquetería Office
+
+| | | |
+|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="60"/> |
+| Microsoft Word | Microsoft Excel | Microsoft PowerPoint |
+
 ## 🤝 Habilidades personales
 
 - Trabajo en equipo.
